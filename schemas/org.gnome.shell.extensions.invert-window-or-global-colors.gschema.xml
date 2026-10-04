@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.invert-window-or-global-colors" path="/org/gnome/shell/extensions/invert-window-or-global-colors/">
+    <key name="invert-focused-window" type="as">
+      <default>['&lt;Control&gt;&lt;Super&gt;i']</default>
+      <summary>Toggle color inversion on the focused window</summary>
+      <description>Shortcut keybinding to invert colors for the currently active window.</description>
+    </key>
+    <key name="invert-global" type="as">
+      <default>['&lt;Control&gt;&lt;Super&gt;u']</default>
+      <summary>Toggle global screen color inversion</summary>
+      <description>Shortcut keybinding to invert colors across the entire desktop interface.</description>
+    </key>
+  </schema>
+</schemalist>

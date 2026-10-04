@@ -1,0 +1,16 @@
+{
+  "description": "Invert the colors of a single window (Ctrl+Meta+I), or everything (Ctrl+Meta+U).",
+  "name": "Invert Window Or Global Colors",
+  "settings-schema": "org.gnome.shell.extensions.invert-window-or-global-colors",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "url": "https://github.com/miro011/gnome-extension-invert-window-or-global-colors",
+  "uuid": "invert-window-or-global-colors@miro011.github.com",
+  "version": 1
+}
